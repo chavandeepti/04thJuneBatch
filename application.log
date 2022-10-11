@@ -1,0 +1,63 @@
+2022-10-09 11:36:08,248  INFO [main] SauseDemo04thJuneBatch:42 - browser is opened
+2022-10-09 11:36:08,565  INFO [main] SauseDemo04thJuneBatch:45 - browser is maximized
+2022-10-09 11:36:11,468  INFO [main] SauseDemo04thJuneBatch:48 - SauceDemo URL is opened
+2022-10-09 11:36:11,761  INFO [main] SauseDemo04thJuneBatch:60 - username is entered
+2022-10-09 11:36:11,827  INFO [main] SauseDemo04thJuneBatch:63 - Password is entered
+2022-10-09 11:36:12,080  INFO [main] SauseDemo04thJuneBatch:66 - Clicked on login button
+2022-10-09 11:36:13,062 DEBUG [main] ThreadLocalRandom:214 - -Dio.netty.initialSeedUniquifier: 0xcc5b2a16915dee22
+2022-10-09 11:36:21,004  INFO [main] SauseDemo04thJuneBatch:42 - browser is opened
+2022-10-09 11:36:21,270  INFO [main] SauseDemo04thJuneBatch:45 - browser is maximized
+2022-10-09 11:36:23,772  INFO [main] SauseDemo04thJuneBatch:48 - SauceDemo URL is opened
+2022-10-09 11:36:23,895  INFO [main] SauseDemo04thJuneBatch:60 - username is entered
+2022-10-09 11:36:23,941  INFO [main] SauseDemo04thJuneBatch:63 - Password is entered
+2022-10-09 11:36:24,187  INFO [main] SauseDemo04thJuneBatch:66 - Clicked on login button
+2022-10-09 11:36:25,335  INFO [main] SauseDemo04thJuneBatch:76 - browser is closed
+2022-10-09 11:36:29,560  INFO [main] SauseDemo04thJuneBatch:42 - browser is opened
+2022-10-09 11:36:29,833  INFO [main] SauseDemo04thJuneBatch:45 - browser is maximized
+2022-10-09 11:36:31,411  INFO [main] SauseDemo04thJuneBatch:48 - SauceDemo URL is opened
+2022-10-09 11:36:31,550  INFO [main] SauseDemo04thJuneBatch:60 - username is entered
+2022-10-09 11:36:31,612  INFO [main] SauseDemo04thJuneBatch:63 - Password is entered
+2022-10-09 11:36:31,850  INFO [main] SauseDemo04thJuneBatch:66 - Clicked on login button
+2022-10-09 11:36:33,316  INFO [main] SauseDemo04thJuneBatch:76 - browser is closed
+2022-10-10 14:09:38,005  INFO [main] SauseDemo04thJuneBatch:43 - browser is opened
+2022-10-10 14:09:38,291  INFO [main] SauseDemo04thJuneBatch:46 - browser is maximized
+2022-10-10 14:09:39,409  INFO [main] SauseDemo04thJuneBatch:49 - SauceDemo URL is opened
+2022-10-10 14:09:39,838  INFO [main] SauseDemo04thJuneBatch:61 - username is entered
+2022-10-10 14:09:39,903  INFO [main] SauseDemo04thJuneBatch:64 - Password is entered
+2022-10-10 14:09:40,154  INFO [main] SauseDemo04thJuneBatch:67 - Clicked on login button
+2022-10-10 14:09:42,713 DEBUG [main] ThreadLocalRandom:214 - -Dio.netty.initialSeedUniquifier: 0x1d840f80ca627991
+2022-10-10 14:09:54,145  INFO [main] SauseDemo04thJuneBatch:43 - browser is opened
+2022-10-10 14:09:54,952  INFO [main] SauseDemo04thJuneBatch:46 - browser is maximized
+2022-10-10 14:09:55,842  INFO [main] SauseDemo04thJuneBatch:49 - SauceDemo URL is opened
+2022-10-10 14:09:56,054  INFO [main] SauseDemo04thJuneBatch:61 - username is entered
+2022-10-10 14:09:56,107  INFO [main] SauseDemo04thJuneBatch:64 - Password is entered
+2022-10-10 14:09:56,325  INFO [main] SauseDemo04thJuneBatch:67 - Clicked on login button
+2022-10-10 14:09:58,275  INFO [main] SauseDemo04thJuneBatch:77 - browser is closed
+2022-10-10 14:10:01,673  INFO [main] SauseDemo04thJuneBatch:43 - browser is opened
+2022-10-10 14:10:01,936  INFO [main] SauseDemo04thJuneBatch:46 - browser is maximized
+2022-10-10 14:10:02,743  INFO [main] SauseDemo04thJuneBatch:49 - SauceDemo URL is opened
+2022-10-10 14:10:02,983  INFO [main] SauseDemo04thJuneBatch:61 - username is entered
+2022-10-10 14:10:03,026  INFO [main] SauseDemo04thJuneBatch:64 - Password is entered
+2022-10-10 14:10:03,270  INFO [main] SauseDemo04thJuneBatch:67 - Clicked on login button
+2022-10-10 14:10:04,883  INFO [main] SauseDemo04thJuneBatch:77 - browser is closed
+2022-10-10 14:10:58,958  INFO [main] SauseDemo04thJuneBatch:43 - browser is opened
+2022-10-10 14:10:59,240  INFO [main] SauseDemo04thJuneBatch:46 - browser is maximized
+2022-10-10 14:10:59,906  INFO [main] SauseDemo04thJuneBatch:49 - SauceDemo URL is opened
+2022-10-10 14:11:00,218  INFO [main] SauseDemo04thJuneBatch:61 - username is entered
+2022-10-10 14:11:00,271  INFO [main] SauseDemo04thJuneBatch:64 - Password is entered
+2022-10-10 14:11:00,521  INFO [main] SauseDemo04thJuneBatch:67 - Clicked on login button
+2022-10-10 14:11:02,091 DEBUG [main] ThreadLocalRandom:214 - -Dio.netty.initialSeedUniquifier: 0x1403ff012c2b89cf
+2022-10-10 14:11:07,144  INFO [main] SauseDemo04thJuneBatch:43 - browser is opened
+2022-10-10 14:11:07,404  INFO [main] SauseDemo04thJuneBatch:46 - browser is maximized
+2022-10-10 14:11:08,106  INFO [main] SauseDemo04thJuneBatch:49 - SauceDemo URL is opened
+2022-10-10 14:11:08,329  INFO [main] SauseDemo04thJuneBatch:61 - username is entered
+2022-10-10 14:11:08,425  INFO [main] SauseDemo04thJuneBatch:64 - Password is entered
+2022-10-10 14:11:08,661  INFO [main] SauseDemo04thJuneBatch:67 - Clicked on login button
+2022-10-10 14:11:10,408  INFO [main] SauseDemo04thJuneBatch:77 - browser is closed
+2022-10-10 14:11:13,783  INFO [main] SauseDemo04thJuneBatch:43 - browser is opened
+2022-10-10 14:11:14,045  INFO [main] SauseDemo04thJuneBatch:46 - browser is maximized
+2022-10-10 14:11:14,772  INFO [main] SauseDemo04thJuneBatch:49 - SauceDemo URL is opened
+2022-10-10 14:11:15,001  INFO [main] SauseDemo04thJuneBatch:61 - username is entered
+2022-10-10 14:11:15,080  INFO [main] SauseDemo04thJuneBatch:64 - Password is entered
+2022-10-10 14:11:15,328  INFO [main] SauseDemo04thJuneBatch:67 - Clicked on login button
+2022-10-10 14:11:16,821  INFO [main] SauseDemo04thJuneBatch:77 - browser is closed
